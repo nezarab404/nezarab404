@@ -5,7 +5,7 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-square&logo=facebook&logoColor=white)](https://facebook.com/nezarab6)
 
 ### Glad to see you here! 😁🔥
-- 👋 Hi, I’m Nezar Abo-Haielh
+- 👋 Hi, I’m Nezar Abo-Haileh
 - 👀 I’m interested in flutter , Software Engineering
 - 🌱 I’m currently learning flutter
 - 📫 How to reach me nezarr404@gmail.com
