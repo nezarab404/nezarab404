@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @nezarab404
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Nezar Abo-Haielh
+- 👀 I’m interested in flutter , Software Engineering
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nezarr404@gmail.com
 
 <!---
