@@ -12,14 +12,11 @@
 
 
 <!--START_SECTION:waka-->
+
 ```text
-Flutter & Dart        ██████████████████░░░░░░░   
-Clean Code            ████████████████░░░░░░░░░
-Firebase              ██████████████░░░░░░░░░░░   
-Linux                 ██████████░░░░░░░░░░░░░░░ 
-Java                  ██████████████░░░░░░░░░░░ 
-C++                   █████████████░░░░░░░░░░░░
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 <!---
 nezarab404/nezarab404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
