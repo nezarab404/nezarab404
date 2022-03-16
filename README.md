@@ -4,7 +4,7 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://gapur-kassym.medium.com/@nezarr404)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-square&logo=facebook&logoColor=white)](https://facebook.com/nezarab6)
 
-### Glad to see you here! 😁🔥
+### Glad to see you here! 😁🔥<a href="https://gkassym.netlify.app" target="_blank">Gapur Kassym</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - 👋 Hi, I’m Nezar Abo-Haileh
 - 👀 I’m interested in flutter , Software Engineering
 - 🌱 I’m currently learning flutter
