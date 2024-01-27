@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nezarr404" target="blank"><img src="https://img.shields.io/twitter/follow/nezarr404?logo=twitter&style=for-the-badge" alt="nezarr404" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain Development**
+- 🌱 I’m currently learning **Software Engineering**
 
 - 💬 Ask me about **Flutter, Dart, Software Engineering**
 
